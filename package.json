@@ -4,7 +4,7 @@
   "description": "Practicing how to use ESLint. Check out the README to see what I've learned.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+      "lint": "eslint ./"
   },
   "repository": {
     "type": "git",
