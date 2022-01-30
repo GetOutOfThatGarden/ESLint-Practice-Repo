@@ -1,0 +1,19 @@
+{
+  "name": "eslint-practice-repo",
+  "version": "1.0.0",
+  "description": "Practicing how to use ESLint. Check out the README to see what I've learned.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GetOutOfThatGarden/ESLint-Practice-Repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GetOutOfThatGarden/ESLint-Practice-Repo/issues"
+  },
+  "homepage": "https://github.com/GetOutOfThatGarden/ESLint-Practice-Repo#readme"
+}
